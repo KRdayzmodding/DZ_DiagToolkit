@@ -1,0 +1,1 @@
+DIAG 3 task init
